@@ -1,0 +1,17 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+data/
+storage/
+*.db
+*.db-wal
+*.db-shm
+.test-runs/
+frontend/dist/
+VALIDATION.md
+TESTING_REPORT.md
+MENTOR_VIVA.md
+INTEGRATION_NOTES.md
+FUNCTION_REFERENCE.md

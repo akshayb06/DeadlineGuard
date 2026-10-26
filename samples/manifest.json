@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "demo-assignment-5mib.pdf",
+    "bytes": 5242880,
+    "chunks": 10,
+    "sha256": "c60c847ac9135074afc8ea170d64a53bac63a42193c4ffad6e0de6d18ea2239d"
+  },
+  {
+    "filename": "demo-assignment-20mib.pdf",
+    "bytes": 20971520,
+    "chunks": 40,
+    "sha256": "f4e3abf176ec76c6cd7899188f172032813344ce2f45e378fc02f217b46ddb43"
+  }
+]
