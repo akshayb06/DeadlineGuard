@@ -5,7 +5,7 @@
 **Prepared:** 27 October 2026  
 **Audience:** CSE project reviewers, mentors, developers and demonstrators
 
-> **Source/version note:** This document describes the *latest* backend files supplied for review (`main(1).py`, `rate_limiter(1).py`, `database(1).py`, `models(1).py`, `upload_service(1).py`, `auth(1).py`, `deadline_service(1).py`, `presentation.py`, `seed.py`, `errors.py`, `requirements.txt`, `README.txt`). The uploaded files use imports such as `from database import ...`, and their README specifies port **8002**. Earlier versions of DeadlineGuard used different routes, imports, credentials and ports; do not mix them. The frontend source and experiments implementation for this exact backend revision have **not** been audited as an integrated unit. Accordingly, diagrams of user interaction are *workflow views inferred from the backend API*, not a claim that each corresponding frontend screen was verified.
+> **Source/version note:** This document describes the *latest* backend files supplied for review (`main.py`, `rate_limiter.py`, `database.py`, `models.py`, `upload_service.py`, `auth.py`, `deadline_service.py`, `presentation.py`, `seed.py`, `errors.py`, `requirements.txt`, `README.txt`). The uploaded files use imports such as `from database import ...`, and their README specifies port **8002**. Earlier versions of DeadlineGuard used different routes, imports, credentials and ports; do not mix them. The frontend source and experiments implementation for this exact backend revision have **not** been audited as an integrated unit. Accordingly, diagrams of user interaction are *workflow views inferred from the backend API*, not a claim that each corresponding frontend screen was verified.
 
 ---
 
